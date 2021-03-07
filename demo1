@@ -1,2 +1,7 @@
 this is demo 1 file.
+<<<<<<< HEAD
 this is added from cmd.
+=======
+
+new line from remote
+>>>>>>> ffc197f7e56957739eaa62067dea97b1ba644ded
