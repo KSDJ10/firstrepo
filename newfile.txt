@@ -1,0 +1,1 @@
+file added newly in master branch after newbranch creation
