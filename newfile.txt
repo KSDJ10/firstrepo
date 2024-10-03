@@ -1,1 +1,2 @@
 file added newly in master branch after newbranch creation
+new word added today
